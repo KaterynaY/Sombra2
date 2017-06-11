@@ -1,0 +1,383 @@
+#navbottom{
+    margin-bottom: 0;
+}
+.grace{
+    padding-top: .75rem;
+    margin-right: 1rem;
+    font-size: 24px;
+}
+.grace a{
+    color: white;
+}
+.grace a:hover{
+    text-decoration: none;
+    color:white;
+}
+#white{
+    color:white;
+}
+.lower{
+    margin-top: 20%;
+}
+#upper{
+    padding-top: 8px;
+}
+.searching{
+    padding-top: .75rem;
+}
+#search{
+    height: 75%;
+}
+.menu__item {
+    transition: .5s;
+}
+.menu__item:hover {
+    padding-left: 10%;
+}
+.bg{
+   background-color:ghostwhite; 
+}
+
+
+
+#zero-padding{
+    padding: 0px;
+}
+.dress{
+    width: 100%;
+}
+.LavenderBlush{
+    background-color: #fff;
+}
+.PaleTurquoise{
+    background-color: #3e3e40;
+}
+.impress{
+    padding: 27% 8% 0 8%;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+.make{
+    padding-left: 7%;
+}
+.logo{
+    text-align: center;
+    font-size: 35px;
+}
+.shop-women{
+    padding-top: 20%;
+    text-align: center;
+    font-size: 25px;
+}
+.shop-women a{
+    color: black;
+}
+.shop-women a:hover{
+    text-decoration: none;
+    color:red;
+}
+.fine{
+    padding: 30% 8% 0 14%;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.successful{
+    padding-left: 25%;
+}
+.people{
+    padding-left: 50%;
+}
+.shop-men{
+    padding-top: 24%;
+    text-align: center;
+    font-size: 25px;
+}
+.shop-men a{
+    color:azure;
+}
+.shop-men a:hover{
+    text-decoration: none;
+    color:maroon;
+}
+
+/* sign in*/
+.signin{
+    margin-top: 5%;
+    margin-bottom: 25%;
+}
+
+
+/* shopping */
+.zero-padding{
+    margin-top: 0;
+}
+.clothing a{
+    color: black;
+}
+.clothing a:hover{
+    text-decoration: none;
+    color:maroon;
+    font-weight: bold;
+}
+.active{
+    font-weight: bold;
+    font-size: 18px;
+}
+.light-grey{
+    color: darkgrey;
+}
+.marg{
+    margin-top: 5px;
+}
+.float-right{
+    float: right;
+}
+.float-right a{
+    color:maroon;
+    padding-left: 5px;
+    font-weight: bold;
+}
+.float-right a:hover{
+    text-decoration: none;
+    color:crimson;
+    font-weight: bold;
+}
+.dresses-pics{
+    margin-top: 20px;
+}
+.dresses-pics img{
+    width: 100%;
+}
+.itemName{
+    margin-top: 3%;
+    font-size: 15px;
+}
+.itemPrice{
+    font-weight: bold;
+    font-size: 17px;
+}
+.itemBrand{
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+    color: maroon;
+}
+.dresses-pics a:hover{
+    opacity: 0.7;
+}
+/*  */
+
+
+/*sale*/
+img{
+    width: 100%;
+}
+.footer{
+    position: fixed;
+    bottom:0px;
+	left:0px;
+	width:100%;
+}
+.content a{
+    color:white;
+    text-decoration: none;
+}
+.content a:hover{
+    color:gray;
+    text-decoration: none;
+}
+.black a{
+    color:crimson;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+}
+.black a:hover{
+    color:maroon;
+    text-decoration: none;
+}
+/*  */
+
+
+/* customer care */
+.customer-care{
+    text-align: center;
+    font-size: 18px;
+}
+.customer-care a, .number{
+    font-weight: bold;
+    color: black;
+}
+.customer-care a:hover{
+    text-decoration: none;
+    color:maroon;
+}
+.faq{
+    margin-top: 1%;
+}
+.faq p{
+    margin-bottom: 5%;
+}
+.faq h4{
+    font-weight: bold;
+}
+
+
+
+/* single item */
+.descrip{
+    color: maroon;
+}
+.bigPic img{
+    margin-top: 1%;
+    width: 100%;
+}
+
+.description{
+    margin-top: 1%;
+}
+.description a{
+    color: black;
+}
+.description a:hover{
+    text-decoration: none;
+    color: black;
+}
+.itemNamen{
+    font-size: 25px;
+}
+.clear-fix::after,.clear-fix::before{ 
+	content:""; 
+	display:block;
+	clear:both;
+}
+.itemColoren{
+    font-size: 18px;
+    font-weight: bold;
+}
+.c{
+    float: left;
+}
+.color{
+    margin: 0px 0px 1px 1px ;
+    height: 24px;
+    width: 24px;
+    background-color: black;
+}
+.bord{
+    margin-left: 5px;
+    height: 26px;
+    width: 26px;
+    background-color: black;
+    float: left;
+}
+.itemSizen{
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.buy{
+    margin-right: 40%;
+    padding: 10%;
+    background-color:gainsboro;
+    text-align: center;
+}
+.pricen{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.buy a{
+    color: white;
+}
+.btn-my { 
+  color: #ffffff; 
+  background-color: #9E081C; 
+  border-color: #130269; 
+} 
+ 
+.btn-my:hover, 
+.btn-my:focus, 
+.btn-my:active, 
+.btn-my.active, 
+.open .dropdown-toggle.btn-my { 
+  color: #ffffff; 
+  background-color: #AD101D; 
+  border-color: #130269; 
+} 
+ 
+.btn-my:active, 
+.btn-my.active, 
+.open .dropdown-toggle.btn-my { 
+  background-image: none; 
+} 
+ 
+.btn-my.disabled, 
+.btn-my[disabled], 
+fieldset[disabled] .btn-my, 
+.btn-my.disabled:hover, 
+.btn-my[disabled]:hover, 
+fieldset[disabled] .btn-my:hover, 
+.btn-my.disabled:focus, 
+.btn-my[disabled]:focus, 
+fieldset[disabled] .btn-my:focus, 
+.btn-my.disabled:active, 
+.btn-my[disabled]:active, 
+fieldset[disabled] .btn-my:active, 
+.btn-my.disabled.active, 
+.btn-my[disabled].active, 
+fieldset[disabled] .btn-my.active { 
+  background-color: #9E081C; 
+  border-color: #130269; 
+} 
+ 
+.btn-my .badge { 
+  color: #9E081C; 
+  background-color: #ffffff; 
+}
+
+.buying-box img{
+    width: 100%;
+}
+
+/*   */
+
+
+
+
+
+.footer-main{
+    background-color: black;
+    color: white;
+}
+.footer-padding{
+    padding: 1% 0 2% 0;
+    text-align: center;
+}
+.footer-padding a{
+    color: white;
+}
+.footer-padding a:hover{
+    text-decoration: none;
+    color: maroon;
+}
+.icons{
+    padding: 0 10%;
+}
+.icons img{
+    width: 10%;
+    padding-left: 2%;
+}
+.subscribe{
+    width: 68%;
+    color: black;
+    margin-top: 1%;
+}
+#email{
+    width: 68%;
+}
+
+
+
